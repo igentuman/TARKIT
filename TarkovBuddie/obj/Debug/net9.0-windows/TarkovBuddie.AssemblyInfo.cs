@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TarkovBuddie")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afcb6454be7cd3baa6cef42945b449c3e4604fd6")]
 [assembly: System.Reflection.AssemblyProductAttribute("TarkovBuddie")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TarkovBuddie")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -27,3 +27,7 @@ C:\Users\gen2m\RiderProjects\TarkovBuddie\TarkovBuddie\obj\Debug\net9.0-windows\
 C:\Users\gen2m\RiderProjects\TarkovBuddie\TarkovBuddie\obj\Debug\net9.0-windows\TarkovBuddie.pdb
 C:\Users\gen2m\RiderProjects\TarkovBuddie\TarkovBuddie\obj\Debug\net9.0-windows\TarkovBuddie.genruntimeconfig.cache
 C:\Users\gen2m\RiderProjects\TarkovBuddie\TarkovBuddie\obj\Debug\net9.0-windows\ref\TarkovBuddie.dll
+C:\Users\gen2m\RiderProjects\TarkovBuddie\TarkovBuddie\obj\Debug\net9.0-windows\TarkovBuddie.sourcelink.json
+C:\Users\gen2m\RiderProjects\TarkovBuddie\TarkovBuddie\obj\Debug\net9.0-windows\App.baml
+C:\Users\gen2m\RiderProjects\TarkovBuddie\TarkovBuddie\obj\Debug\net9.0-windows\MapOverlayWindow.baml
+C:\Users\gen2m\RiderProjects\TarkovBuddie\TarkovBuddie\obj\Debug\net9.0-windows\MapOverlayWindow.g.cs

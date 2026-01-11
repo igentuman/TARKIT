@@ -1,0 +1,8 @@
+﻿# Map developers:
+
+### GLORY4LIFE
+### RE3MR.COM
+### XTYCHO
+### MONKIMONKIMONK
+### JINDOUZ
+### MUHAWI
