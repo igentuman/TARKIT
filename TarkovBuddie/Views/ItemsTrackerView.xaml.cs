@@ -1,3 +1,5 @@
+using TarkovBuddie.ViewModels;
+
 namespace TarkovBuddie.Views;
 
 public partial class ItemsTrackerView

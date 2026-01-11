@@ -1,0 +1,1479 @@
+﻿[
+    {
+        "total_qty":  3,
+        "id":  "544fb45d4bdc2dee738b4568",
+        "name":  "Salewa first aid kit",
+        "name_short":  "Salewa",
+        "icon":  "salewa"
+    },
+    {
+        "total_qty":  3,
+        "id":  "5bc9b355d4351e6d1509862a",
+        "name":  "#FireKlean gun lube",
+        "name_short":  "#FireKlean",
+        "icon":  "fireklean"
+    },
+    {
+        "total_qty":  2,
+        "id":  "545cdb794bdc2d3a198b456a",
+        "name":  "6B43 Zabralo-Sh body armor (EMR)",
+        "name_short":  "6B43",
+        "icon":  "6b43"
+    },
+    {
+        "total_qty":  2,
+        "id":  "5a7c4850e899ef00150be885",
+        "name":  "6B47 Ratnik-BSh helmet (Olive Drab)",
+        "name_short":  "6B47",
+        "icon":  "6b47"
+    },
+    {
+        "total_qty":  2,
+        "id":  "5d03794386f77420415576f5",
+        "name":  "6-STEN-140-M military battery",
+        "name_short":  "Tank battery",
+        "icon":  "tank_battery"
+    },
+    {
+        "total_qty":  1,
+        "id":  "6389c85357baa773a825b356",
+        "name":  "Advanced current converter",
+        "name_short":  "MCC",
+        "icon":  "mcc"
+    },
+    {
+        "total_qty":  3,
+        "id":  "55d482194bdc2d1d4e8b456b",
+        "name":  "AK-74 5.45x39 6L31 60-round magazine",
+        "name_short":  "6L31",
+        "icon":  "6l31"
+    },
+    {
+        "total_qty":  4,
+        "id":  "59faf98186f774067b6be103",
+        "name":  "Alkaline cleaner for heat exchangers",
+        "name_short":  "Alkali",
+        "icon":  "alkali"
+    },
+    {
+        "total_qty":  2,
+        "id":  "5d1b32c186f774252167a530",
+        "name":  "Analog thermometer",
+        "name_short":  "Therm.",
+        "icon":  "therm."
+    },
+    {
+        "total_qty":  15,
+        "id":  "5e2af4d286f7746d4159f07a",
+        "name":  "Aramid fiber fabric",
+        "name_short":  "Aramid",
+        "icon":  "aramid"
+    },
+    {
+        "total_qty":  2,
+        "id":  "544fb25a4bdc2dfb738b4567",
+        "name":  "Aseptic bandage",
+        "name_short":  "Bandage",
+        "icon":  "bandage"
+    },
+    {
+        "total_qty":  2,
+        "id":  "62a0a098de7ac8199358053b",
+        "name":  "Awl",
+        "name_short":  "Awl",
+        "icon":  "awl"
+    },
+    {
+        "total_qty":  2,
+        "id":  "62a09e73af34e73a266d932a",
+        "name":  "BakeEzy cook book",
+        "name_short":  "BakeEzy",
+        "icon":  "bakeezy"
+    },
+    {
+        "total_qty":  2,
+        "id":  "6259b864ebedf17603599e88",
+        "name":  "Benelli M3 Super 90 12ga dual-mode shotgun",
+        "name_short":  "M3 Super 90",
+        "icon":  "m3_super_90"
+    },
+    {
+        "total_qty":  2,
+        "id":  "5cadc190ae921500103bb3b6",
+        "name":  "Beretta M9A3 9x19 pistol",
+        "name_short":  "M9A3",
+        "icon":  "m9a3"
+    },
+    {
+        "total_qty":  2,
+        "id":  "5648a69d4bdc2ded0b8b457b",
+        "name":  "BlackRock chest rig (Gray)",
+        "name_short":  "BlackRock",
+        "icon":  "blackrock"
+    },
+    {
+        "total_qty":  4,
+        "id":  "5ab8e79e86f7742d8b372e78",
+        "name":  "BNTI Gzhel-K body armor",
+        "name_short":  "Gzhel-K",
+        "icon":  "gzhel-k"
+    },
+    {
+        "total_qty":  1,
+        "id":  "59e7635f86f7742cbf2c1095",
+        "name":  "BNTI Module-3M body armor",
+        "name_short":  "Module-3M",
+        "icon":  "module-3m"
+    },
+    {
+        "total_qty":  1,
+        "id":  "591094e086f7747caa7bb2ef",
+        "name":  "Body armor repair kit",
+        "name_short":  "Armor repair kit",
+        "icon":  "armor_repair_kit"
+    },
+    {
+        "total_qty":  59,
+        "id":  "57347c5b245977448d35f6e1",
+        "name":  "Bolts",
+        "name_short":  "Bolts",
+        "icon":  "bolts"
+    },
+    {
+        "total_qty":  25,
+        "id":  "5d403f9186f7743cac3f229b",
+        "name":  "Bottle of Dan Jackiel whiskey",
+        "name_short":  "Whiskey",
+        "icon":  "whiskey"
+    },
+    {
+        "total_qty":  22,
+        "id":  "5d1b376e86f774252519444e",
+        "name":  "Bottle of Fierce Hatchling moonshine",
+        "name_short":  "Moonshine",
+        "icon":  "moonshine"
+    },
+    {
+        "total_qty":  15,
+        "id":  "62a0a043cf4a99369e2624a5",
+        "name":  "Bottle of OLOLO Multivitamins",
+        "name_short":  "Vitamins",
+        "icon":  "vitamins"
+    },
+    {
+        "total_qty":  20,
+        "id":  "62a09f32621468534a797acb",
+        "name":  "Bottle of Pevko Light beer",
+        "name_short":  "Pevko",
+        "icon":  "pevko"
+    },
+    {
+        "total_qty":  10,
+        "id":  "59e3606886f77417674759a5",
+        "name":  "Bottle of saline solution",
+        "name_short":  "NaCl",
+        "icon":  "nacl"
+    },
+    {
+        "total_qty":  6,
+        "id":  "59e3639286f7741777737013",
+        "name":  "Bronze lion figurine",
+        "name_short":  "Lion",
+        "icon":  "lion"
+    },
+    {
+        "total_qty":  1,
+        "id":  "619cbfeb6b8a1b37a54eebfa",
+        "name":  "Bulbex cable cutter",
+        "name_short":  "Bulbex",
+        "icon":  "bulbex"
+    },
+    {
+        "total_qty":  102,
+        "id":  "5c06779c86f77426e00dd782",
+        "name":  "Bundle of wires",
+        "name_short":  "Wires",
+        "icon":  "wires"
+    },
+    {
+        "total_qty":  15,
+        "id":  "57347d7224597744596b4e72",
+        "name":  "Can of beef stew (Small)",
+        "name_short":  "Tushonka",
+        "icon":  "tushonka"
+    },
+    {
+        "total_qty":  3,
+        "id":  "5af0484c86f7740f02001f7f",
+        "name":  "Can of Majaica coffee beans",
+        "name_short":  "Majaica",
+        "icon":  "majaica"
+    },
+    {
+        "total_qty":  5,
+        "id":  "60391a8b3364dc22b04d0ce5",
+        "name":  "Can of thermite",
+        "name_short":  "Thermite",
+        "icon":  "thermite"
+    },
+    {
+        "total_qty":  4,
+        "id":  "62a09ee4cf4a99369e262453",
+        "name":  "Can of white salt",
+        "name_short":  "Salt",
+        "icon":  "salt"
+    },
+    {
+        "total_qty":  3,
+        "id":  "5d1b33a686f7742523398398",
+        "name":  "Canister with purified water",
+        "name_short":  "Superwater",
+        "icon":  "superwater"
+    },
+    {
+        "total_qty":  23,
+        "id":  "5c06782b86f77426df5407d2",
+        "name":  "Capacitors",
+        "name_short":  "Caps",
+        "icon":  "caps"
+    },
+    {
+        "total_qty":  9,
+        "id":  "5733279d245977289b77ec24",
+        "name":  "Car battery",
+        "name_short":  "Car battery",
+        "icon":  "car_battery"
+    },
+    {
+        "total_qty":  2,
+        "id":  "59e3658a86f7741776641ac4",
+        "name":  "Cat figurine",
+        "name_short":  "Cat",
+        "icon":  "cat"
+    },
+    {
+        "total_qty":  2,
+        "id":  "573474f924597738002c6174",
+        "name":  "Chainlet",
+        "name_short":  "Chainlet",
+        "icon":  "chainlet"
+    },
+    {
+        "total_qty":  5,
+        "id":  "57347b8b24597737dd42e192",
+        "name":  "Classic matches",
+        "name_short":  "Matches",
+        "icon":  "matches"
+    },
+    {
+        "total_qty":  3,
+        "id":  "590c2c9c86f774245b1f03f2",
+        "name":  "Construction measuring tape",
+        "name_short":  "MTape",
+        "icon":  "mtape"
+    },
+    {
+        "total_qty":  10,
+        "id":  "5e2af41e86f774755a234b67",
+        "name":  "Cordura polyamide fabric",
+        "name_short":  "Cordura",
+        "icon":  "cordura"
+    },
+    {
+        "total_qty":  41,
+        "id":  "59e35cbb86f7741778269d83",
+        "name":  "Corrugated hose",
+        "name_short":  "Hose",
+        "icon":  "hose"
+    },
+    {
+        "total_qty":  60,
+        "id":  "5734779624597737e04bf329",
+        "name":  "CPU fan",
+        "name_short":  "CPU fan",
+        "icon":  "cpu_fan"
+    },
+    {
+        "total_qty":  4,
+        "id":  "56742c284bdc2d98058b456d",
+        "name":  "Crickent lighter",
+        "name_short":  "Crickent",
+        "icon":  "crickent"
+    },
+    {
+        "total_qty":  8,
+        "id":  "590a386e86f77429692b27ab",
+        "name":  "Damaged hard drive",
+        "name_short":  "HDD",
+        "icon":  "hdd"
+    },
+    {
+        "total_qty":  5,
+        "id":  "590c645c86f77412b01304d9",
+        "name":  "Diary",
+        "name_short":  "Diary",
+        "icon":  "diary"
+    },
+    {
+        "total_qty":  1,
+        "id":  "5d1b3f2d86f774253763b735",
+        "name":  "Disposable syringe",
+        "name_short":  "Syringe",
+        "icon":  "syringe"
+    },
+    {
+        "total_qty":  7,
+        "id":  "59f32c3b86f77472a31742f0",
+        "name":  "Dogtag USEC",
+        "name_short":  "USEC",
+        "icon":  "usec"
+    },
+    {
+        "total_qty":  25000,
+        "id":  "5696686a4bdc2da3298b456a",
+        "name":  "Dollars",
+        "name_short":  "USD",
+        "icon":  "usd"
+    },
+    {
+        "total_qty":  1,
+        "id":  "59387a4986f77401cc236e62",
+        "name":  "Dorm room 114 key",
+        "name_short":  "Dorm 114",
+        "icon":  "dorm_114"
+    },
+    {
+        "total_qty":  1,
+        "id":  "5938504186f7740991483f30",
+        "name":  "Dorm room 203 key",
+        "name_short":  "Dorm 203",
+        "icon":  "dorm_203"
+    },
+    {
+        "total_qty":  1,
+        "id":  "5938603e86f77435642354f4",
+        "name":  "Dorm room 206 key",
+        "name_short":  "Dorm 206",
+        "icon":  "dorm_206"
+    },
+    {
+        "total_qty":  5,
+        "id":  "5780cfa52459777dfb276eb1",
+        "name":  "Dorm room 220 key",
+        "name_short":  "Dorm 220",
+        "icon":  "dorm_220"
+    },
+    {
+        "total_qty":  1,
+        "id":  "593aa4be86f77457f56379f8",
+        "name":  "Dorm room 303 key",
+        "name_short":  "Dorm 303",
+        "icon":  "dorm_303"
+    },
+    {
+        "total_qty":  2,
+        "id":  "5780cf7f2459777de4559322",
+        "name":  "Dorm room 314 marked key",
+        "name_short":  "Dorm mrk.",
+        "icon":  "dorm_mrk."
+    },
+    {
+        "total_qty":  3,
+        "id":  "590a373286f774287540368b",
+        "name":  "Dry fuel",
+        "name_short":  "DFuel",
+        "icon":  "dfuel"
+    },
+    {
+        "total_qty":  18,
+        "id":  "57347c1124597737fb1379e3",
+        "name":  "Duct tape",
+        "name_short":  "Duct tape",
+        "icon":  "duct_tape"
+    },
+    {
+        "total_qty":  1,
+        "id":  "5734781f24597737e04bf32a",
+        "name":  "DVD drive",
+        "name_short":  "DVD",
+        "icon":  "dvd"
+    },
+    {
+        "total_qty":  12,
+        "id":  "59e35de086f7741778269d84",
+        "name":  "Electric drill",
+        "name_short":  "Drill",
+        "icon":  "drill"
+    },
+    {
+        "total_qty":  24,
+        "id":  "5d1b2fa286f77425227d1674",
+        "name":  "Electric motor",
+        "name_short":  "Motor",
+        "icon":  "motor"
+    },
+    {
+        "total_qty":  111,
+        "id":  "590a3cd386f77436f20848cb",
+        "name":  "Energy-saving lamp",
+        "name_short":  "ES Lamp",
+        "icon":  "es_lamp"
+    },
+    {
+        "total_qty":  5,
+        "id":  "5e831507ea0a7c419c2f9bd9",
+        "name":  "Esmarch tourniquet",
+        "name_short":  "Esmarch",
+        "icon":  "esmarch"
+    },
+    {
+        "total_qty":  2,
+        "id":  "5710c24ad2720bc3458b45a3",
+        "name":  "F-1 hand grenade",
+        "name_short":  "F-1",
+        "icon":  "f-1"
+    },
+    {
+        "total_qty":  1,
+        "id":  "574eb85c245977648157eec3",
+        "name":  "Factory plan map",
+        "name_short":  "Factory",
+        "icon":  "factory"
+    },
+    {
+        "total_qty":  1,
+        "id":  "6389c7f115805221fb410466",
+        "name":  "Far-forward GPS Signal Amplifier Unit",
+        "name_short":  "GPSA",
+        "icon":  "gpsa"
+    },
+    {
+        "total_qty":  1,
+        "id":  "63a0b208f444d32d6f03ea1e",
+        "name":  "Fierce Blow sledgehammer",
+        "name_short":  "Sledgehammer",
+        "icon":  "sledgehammer"
+    },
+    {
+        "total_qty":  25,
+        "id":  "5e2af47786f7746d404f3aaa",
+        "name":  "Fleece fabric",
+        "name_short":  "Fleece",
+        "icon":  "fleece"
+    },
+    {
+        "total_qty":  2,
+        "id":  "5d3eb3b0a4b93615055e84d2",
+        "name":  "FN Five-seveN MK2 5.7x28 pistol",
+        "name_short":  "FN 5-7",
+        "icon":  "fn_5-7"
+    },
+    {
+        "total_qty":  8,
+        "id":  "5b43575a86f77424f443fe62",
+        "name":  "Fuel conditioner",
+        "name_short":  "FCond",
+        "icon":  "fcond"
+    },
+    {
+        "total_qty":  7,
+        "id":  "590a3efd86f77437d351a25b",
+        "name":  "Gas analyzer",
+        "name_short":  "GasAn",
+        "icon":  "gasan"
+    },
+    {
+        "total_qty":  5,
+        "id":  "590c595c86f7747884343ad7",
+        "name":  "Gas mask air filter",
+        "name_short":  "Filter",
+        "icon":  "filter"
+    },
+    {
+        "total_qty":  1,
+        "id":  "5ab8f4ff86f77431c60d91ba",
+        "name":  "Ghost balaclava",
+        "name_short":  "Ghost",
+        "icon":  "ghost"
+    },
+    {
+        "total_qty":  2,
+        "id":  "5b1fa9b25acfc40018633c01",
+        "name":  "Glock 18C 9x19 machine pistol",
+        "name_short":  "Glock 18C",
+        "icon":  "glock_18c"
+    },
+    {
+        "total_qty":  6,
+        "id":  "5d235a5986f77443f6329bc6",
+        "name":  "Gold skull ring",
+        "name_short":  "Skull",
+        "icon":  "skull"
+    },
+    {
+        "total_qty":  8,
+        "id":  "5734758f24597738025ee253",
+        "name":  "Golden neck chain",
+        "name_short":  "GoldChain",
+        "icon":  "goldchain"
+    },
+    {
+        "total_qty":  2,
+        "id":  "5bc9bc53d4351e00367fbcee",
+        "name":  "Golden rooster figurine",
+        "name_short":  "Rooster",
+        "icon":  "rooster"
+    },
+    {
+        "total_qty":  1,
+        "id":  "5ad7247386f7747487619dc3",
+        "name":  "Goshan cash register key",
+        "name_short":  "Goshan reg.",
+        "icon":  "goshan_reg."
+    },
+    {
+        "total_qty":  4,
+        "id":  "5e2aedd986f7746d404f3aa4",
+        "name":  "GreenBat lithium battery",
+        "name_short":  "GreenBat",
+        "icon":  "greenbat"
+    },
+    {
+        "total_qty":  2,
+        "id":  "5d1b317c86f7742523398392",
+        "name":  "Hand drill",
+        "name_short":  "Hand drill",
+        "icon":  "hand_drill"
+    },
+    {
+        "total_qty":  2,
+        "id":  "5a145d4786f7744cbb6f4a12",
+        "name":  "Health Resort east wing room 306 key",
+        "name_short":  "E306 San",
+        "icon":  "e306_san"
+    },
+    {
+        "total_qty":  2,
+        "id":  "5a145d7b86f7744cbb6f4a13",
+        "name":  "Health Resort east wing room 308 key",
+        "name_short":  "E308 San",
+        "icon":  "e308_san"
+    },
+    {
+        "total_qty":  1,
+        "id":  "5eff09cd30a7dc22fd1ddfed",
+        "name":  "Health Resort office key with a blue tape",
+        "name_short":  "San tape",
+        "icon":  "san_tape"
+    },
+    {
+        "total_qty":  1,
+        "id":  "5a0ee30786f774023b6ee08f",
+        "name":  "Health Resort west wing room 216 key",
+        "name_short":  "W216 San",
+        "icon":  "w216_san"
+    },
+    {
+        "total_qty":  1,
+        "id":  "5a13f46386f7741dd7384b04",
+        "name":  "Health Resort west wing room 306 key",
+        "name_short":  "W306 San",
+        "icon":  "w306_san"
+    },
+    {
+        "total_qty":  3,
+        "id":  "573478bc24597738002c6175",
+        "name":  "Horse figurine",
+        "name_short":  "Horse",
+        "icon":  "horse"
+    },
+    {
+        "total_qty":  2,
+        "id":  "5e2af2bc86f7746d3f3c33fc",
+        "name":  "Hunting matches",
+        "name_short":  "HMatches",
+        "icon":  "hmatches"
+    },
+    {
+        "total_qty":  12,
+        "id":  "5734795124597738002c6176",
+        "name":  "Insulating tape",
+        "name_short":  "Tape",
+        "icon":  "tape"
+    },
+    {
+        "total_qty":  4,
+        "id":  "5c12613b86f7743bbe2c3f76",
+        "name":  "Intelligence folder",
+        "name_short":  "Intelligence",
+        "icon":  "intelligence"
+    },
+    {
+        "total_qty":  1,
+        "id":  "59d6088586f774275f37482f",
+        "name":  "Kalashnikov AKM 7.62x39 assault rifle",
+        "name_short":  "AKM",
+        "icon":  "akm"
+    },
+    {
+        "total_qty":  1,
+        "id":  "5a0ec13bfcdbcb00165aa685",
+        "name":  "Kalashnikov AKMN 7.62x39 assault rifle",
+        "name_short":  "AKMN",
+        "icon":  "akmn"
+    },
+    {
+        "total_qty":  1,
+        "id":  "59ff346386f77477562ff5e2",
+        "name":  "Kalashnikov AKMS 7.62x39 assault rifle",
+        "name_short":  "AKMS",
+        "icon":  "akms"
+    },
+    {
+        "total_qty":  1,
+        "id":  "5abcbc27d8ce8700182eceeb",
+        "name":  "Kalashnikov AKMSN 7.62x39 assault rifle",
+        "name_short":  "AKMSN",
+        "icon":  "akmsn"
+    },
+    {
+        "total_qty":  16,
+        "id":  "5e2af29386f7746d4159f077",
+        "name":  "KEKTAPE duct tape",
+        "name_short":  "KEK",
+        "icon":  "kek"
+    },
+    {
+        "total_qty":  2,
+        "id":  "5aa2b9ede5b5b000137b758b",
+        "name":  "Kinda cowboy hat",
+        "name_short":  "Cowboy",
+        "icon":  "cowboy"
+    },
+    {
+        "total_qty":  2,
+        "id":  "5df8ce05b11454561e39243b",
+        "name":  "Knight\u0027s Armament Company SR-25 7.62x51 marksman rifle",
+        "name_short":  "SR-25",
+        "icon":  "sr-25"
+    },
+    {
+        "total_qty":  4,
+        "id":  "544fb5454bdc2df8738b456a",
+        "name":  "Leatherman Multitool",
+        "name_short":  "MultiTool",
+        "icon":  "multitool"
+    },
+    {
+        "total_qty":  3,
+        "id":  "5c0530ee86f774697952d952",
+        "name":  "LEDX Skin Transilluminator",
+        "name_short":  "LEDX",
+        "icon":  "ledx"
+    },
+    {
+        "total_qty":  26,
+        "id":  "5d1b392c86f77425243e98fe",
+        "name":  "Light bulb",
+        "name_short":  "Bulb",
+        "icon":  "bulb"
+    },
+    {
+        "total_qty":  7,
+        "id":  "5c05308086f7746b2101e90b",
+        "name":  "Virtex programmable processor",
+        "name_short":  "Virtex",
+        "icon":  "virtex"
+    },
+    {
+        "total_qty":  1,
+        "id":  "5b7c710788a4506dec015957",
+        "name":  "Lucky Scav Junk box",
+        "name_short":  "Junk",
+        "icon":  "junk"
+    },
+    {
+        "total_qty":  2,
+        "id":  "58d3db5386f77426186285a0",
+        "name":  "M67 hand grenade",
+        "name_short":  "M67",
+        "icon":  "m67"
+    },
+    {
+        "total_qty":  1,
+        "id":  "5937ee6486f77408994ba448",
+        "name":  "Machinery key",
+        "name_short":  "Machinery",
+        "icon":  "machinery"
+    },
+    {
+        "total_qty":  1,
+        "id":  "590a391c86f774385a33c404",
+        "name":  "Magnet",
+        "name_short":  "Magnet",
+        "icon":  "magnet"
+    },
+    {
+        "total_qty":  2,
+        "id":  "668fe5a998b5ad715703ddd6",
+        "name":  "Magnum Research Desert Eagle Mk XIX .50 AE pistol",
+        "name_short":  "Desert Eagle Mk XIX",
+        "icon":  "desert_eagle_mk_xix"
+    },
+    {
+        "total_qty":  2,
+        "id":  "5448bd6b4bdc2dfc2f8b4569",
+        "name":  "Makarov PM 9x18PM pistol",
+        "name_short":  "PM",
+        "icon":  "pm"
+    },
+    {
+        "total_qty":  2,
+        "id":  "5b4335ba86f7744d2837a264",
+        "name":  "Medical bloodset",
+        "name_short":  "Bloodset",
+        "icon":  "bloodset"
+    },
+    {
+        "total_qty":  3,
+        "id":  "619cc01e0a7c3a1a2731940c",
+        "name":  "Medical tools",
+        "name_short":  "MedTools",
+        "icon":  "medtools"
+    },
+    {
+        "total_qty":  3,
+        "id":  "5d40419286f774318526545f",
+        "name":  "Metal cutting scissors",
+        "name_short":  "MScissors",
+        "icon":  "mscissors"
+    },
+    {
+        "total_qty":  86,
+        "id":  "61bf7b6302b3924be92fa8c3",
+        "name":  "Metal spare parts",
+        "name_short":  "M.parts",
+        "icon":  "m.parts"
+    },
+    {
+        "total_qty":  2,
+        "id":  "5ab8e4ed86f7742d8e50c7fa",
+        "name":  "MF-UNTAR body armor",
+        "name_short":  "MF-UN",
+        "icon":  "mf-un"
+    },
+    {
+        "total_qty":  15,
+        "id":  "5d0375ff86f774186372f685",
+        "name":  "Military cable",
+        "name_short":  "MCable",
+        "icon":  "mcable"
+    },
+    {
+        "total_qty":  13,
+        "id":  "5c052f6886f7746b1e3db148",
+        "name":  "Military COFDM Wireless Signal Transmitter",
+        "name_short":  "SG-C10",
+        "icon":  "sg-c10"
+    },
+    {
+        "total_qty":  12,
+        "id":  "619cbf476b8a1b37a54eebf8",
+        "name":  "Military corrugated tube",
+        "name_short":  "MTube",
+        "icon":  "mtube"
+    },
+    {
+        "total_qty":  5,
+        "id":  "62a0a16d0b9d3c46de5b6e97",
+        "name":  "Military flash drive",
+        "name_short":  "MFD",
+        "icon":  "mfd"
+    },
+    {
+        "total_qty":  17,
+        "id":  "5d0378d486f77420421a5ff4",
+        "name":  "Military power filter",
+        "name_short":  "PFilter",
+        "icon":  "pfilter"
+    },
+    {
+        "total_qty":  4,
+        "id":  "544fb3f34bdc2d03748b456a",
+        "name":  "Morphine injector",
+        "name_short":  "Morphine",
+        "icon":  "morphine"
+    },
+    {
+        "total_qty":  2,
+        "id":  "5e870397991fd70db46995c8",
+        "name":  "Mossberg 590A1 12ga pump-action shotgun",
+        "name_short":  "590A1",
+        "icon":  "590a1"
+    },
+    {
+        "total_qty":  5,
+        "id":  "54491c4f4bdc2db1078b4568",
+        "name":  "MP-133 12ga pump-action shotgun",
+        "name_short":  "MP-133",
+        "icon":  "mp-133"
+    },
+    {
+        "total_qty":  2,
+        "id":  "56dee2bdd2720bc8328b4567",
+        "name":  "MP-153 12ga semi-automatic shotgun",
+        "name_short":  "MP-153",
+        "icon":  "mp-153"
+    },
+    {
+        "total_qty":  2,
+        "id":  "606dae0ab0e443224b421bb7",
+        "name":  "MP-155 12ga semi-automatic shotgun",
+        "name_short":  "MP-155",
+        "icon":  "mp-155"
+    },
+    {
+        "total_qty":  4,
+        "id":  "5580223e4bdc2d1c128b457f",
+        "name":  "MP-43-1C 12ga double-barrel shotgun",
+        "name_short":  "MP-43-1C",
+        "icon":  "mp-43-1c"
+    },
+    {
+        "total_qty":  5,
+        "id":  "590c5f0d86f77413997acfab",
+        "name":  "MRE ration pack",
+        "name_short":  "MRE",
+        "icon":  "mre"
+    },
+    {
+        "total_qty":  176,
+        "id":  "5991b51486f77447b112d44f",
+        "name":  "MS2000 Marker",
+        "name_short":  "MS2000",
+        "icon":  "ms2000"
+    },
+    {
+        "total_qty":  2,
+        "id":  "60db29ce99594040e04c4a27",
+        "name":  "MTs-255-12 12ga shotgun",
+        "name_short":  "MTs-255-12",
+        "icon":  "mts-255-12"
+    },
+    {
+        "total_qty":  9,
+        "id":  "5d1b2ffd86f77425243e8d17",
+        "name":  "NIXXOR lens",
+        "name_short":  "NIXXOR",
+        "icon":  "nixxor"
+    },
+    {
+        "total_qty":  5,
+        "id":  "5d0379a886f77420407aa271",
+        "name":  "OFZ 30x165mm shell",
+        "name_short":  "OFZ",
+        "icon":  "ofz"
+    },
+    {
+        "total_qty":  1,
+        "id":  "5ad5cfbd86f7742c825d6104",
+        "name":  "OLI logistics department office key",
+        "name_short":  "OLI Log.",
+        "icon":  "oli_log."
+    },
+    {
+        "total_qty":  5,
+        "id":  "5af0534a86f7743b6f354284",
+        "name":  "Ophthalmoscope",
+        "name_short":  "OScope",
+        "icon":  "oscope"
+    },
+    {
+        "total_qty":  30,
+        "id":  "590c31c586f774245e3141b2",
+        "name":  "Pack of nails",
+        "name_short":  "Nails",
+        "icon":  "nails"
+    },
+    {
+        "total_qty":  44,
+        "id":  "59e35ef086f7741777737012",
+        "name":  "Pack of screws",
+        "name_short":  "Screws",
+        "icon":  "screws"
+    },
+    {
+        "total_qty":  3,
+        "id":  "59e35abd86f7741778269d82",
+        "name":  "Pack of sodium bicarbonate",
+        "name_short":  "Sodium",
+        "icon":  "sodium"
+    },
+    {
+        "total_qty":  1,
+        "id":  "59e3596386f774176c10a2a2",
+        "name":  "PAID AntiRoach spray",
+        "name_short":  "PAID",
+        "icon":  "paid"
+    },
+    {
+        "total_qty":  2,
+        "id":  "5645bcc04bdc2d363b8b4572",
+        "name":  "Peltor ComTac II headset (OD Green)",
+        "name_short":  "ComTac II",
+        "icon":  "comtac_ii"
+    },
+    {
+        "total_qty":  26,
+        "id":  "5d1b313086f77425227d1678",
+        "name":  "Phase control relay",
+        "name_short":  "Relay",
+        "icon":  "relay"
+    },
+    {
+        "total_qty":  6,
+        "id":  "5d03775b86f774203e7e0c4b",
+        "name":  "Phased array element",
+        "name_short":  "AESA",
+        "icon":  "aesa"
+    },
+    {
+        "total_qty":  1,
+        "id":  "5d1b3a5d86f774252167ba22",
+        "name":  "Pile of meds",
+        "name_short":  "Meds",
+        "icon":  "meds"
+    },
+    {
+        "total_qty":  1,
+        "id":  "59e763f286f7742ee57895da",
+        "name":  "Pilgrim tourist backpack",
+        "name_short":  "Pilgrim",
+        "icon":  "pilgrim"
+    },
+    {
+        "total_qty":  1,
+        "id":  "619cbfccbedcde2f5b3f7bdd",
+        "name":  "Pipe grip wrench",
+        "name_short":  "PGW",
+        "icon":  "pgw"
+    },
+    {
+        "total_qty":  7,
+        "id":  "5af04b6486f774195a3ebb49",
+        "name":  "Pliers Elite",
+        "name_short":  "Elite",
+        "icon":  "elite"
+    },
+    {
+        "total_qty":  1,
+        "id":  "5938144586f77473c2087145",
+        "name":  "Portable bunkhouse key",
+        "name_short":  "Bunkhouse",
+        "icon":  "bunkhouse"
+    },
+    {
+        "total_qty":  32,
+        "id":  "59e36c6f86f774176c10a2a7",
+        "name":  "Power cord",
+        "name_short":  "Cord",
+        "icon":  "cord"
+    },
+    {
+        "total_qty":  25,
+        "id":  "57347c2e24597744902c94a1",
+        "name":  "Power supply unit",
+        "name_short":  "PSU",
+        "icon":  "psu"
+    },
+    {
+        "total_qty":  14,
+        "id":  "5d1b327086f7742525194449",
+        "name":  "Pressure gauge",
+        "name_short":  "PGauge",
+        "icon":  "pgauge"
+    },
+    {
+        "total_qty":  23,
+        "id":  "590a3b0486f7743954552bdb",
+        "name":  "Printed circuit board",
+        "name_short":  "PCB",
+        "icon":  "pcb"
+    },
+    {
+        "total_qty":  13,
+        "id":  "5d1c774f86f7746d6620f8db",
+        "name":  "Radiator helix",
+        "name_short":  "Helix",
+        "icon":  "helix"
+    },
+    {
+        "total_qty":  4,
+        "id":  "60391afc25aff57af81f7085",
+        "name":  "Ratchet wrench",
+        "name_short":  "Ratchet",
+        "icon":  "ratchet"
+    },
+    {
+        "total_qty":  1,
+        "id":  "5aa2b9aee5b5b00015693121",
+        "name":  "RayBench Hipster Reserve sunglasses",
+        "name_short":  "RayBench",
+        "icon":  "raybench"
+    },
+    {
+        "total_qty":  1,
+        "id":  "5d947d4e86f774447b415895",
+        "name":  "RB-KSM key",
+        "name_short":  "RB-KSM",
+        "icon":  "rb-ksm"
+    },
+    {
+        "total_qty":  1,
+        "id":  "5d80c6c586f77440351beef1",
+        "name":  "RB-OB key",
+        "name_short":  "RB-OB",
+        "icon":  "rb-ob"
+    },
+    {
+        "total_qty":  1,
+        "id":  "5d80ccac86f77470841ff452",
+        "name":  "RB-ORB1 key",
+        "name_short":  "RB-ORB1",
+        "icon":  "rb-orb1"
+    },
+    {
+        "total_qty":  1,
+        "id":  "5d80ccdd86f77474f7575e02",
+        "name":  "RB-ORB2 key",
+        "name_short":  "RB-ORB2",
+        "icon":  "rb-orb2"
+    },
+    {
+        "total_qty":  1,
+        "id":  "5d80cd1a86f77402aa362f42",
+        "name":  "RB-ORB3 key",
+        "name_short":  "RB-ORB3",
+        "icon":  "rb-orb3"
+    },
+    {
+        "total_qty":  1,
+        "id":  "5d947d3886f774447b415893",
+        "name":  "RB-SMP key",
+        "name_short":  "RB-SMP",
+        "icon":  "rb-smp"
+    },
+    {
+        "total_qty":  3,
+        "id":  "5d9f1fa686f774726974a992",
+        "name":  "RB-ST key",
+        "name_short":  "RB-ST",
+        "icon":  "rb-st"
+    },
+    {
+        "total_qty":  2,
+        "id":  "5a7828548dc32e5a9c28b516",
+        "name":  "Remington Model 870 12ga pump-action shotgun",
+        "name_short":  "M870",
+        "icon":  "m870"
+    },
+    {
+        "total_qty":  2,
+        "id":  "5448be9a4bdc2dfd2f8b456a",
+        "name":  "RGD-5 hand grenade",
+        "name_short":  "RGD-5",
+        "icon":  "rgd-5"
+    },
+    {
+        "total_qty":  2,
+        "id":  "617fd91e5539a84ec44ce155",
+        "name":  "RGN hand grenade",
+        "name_short":  "RGN",
+        "icon":  "rgn"
+    },
+    {
+        "total_qty":  2,
+        "id":  "618a431df1eb8e24b8741deb",
+        "name":  "RGO hand grenade",
+        "name_short":  "RGO",
+        "icon":  "rgo"
+    },
+    {
+        "total_qty":  4,
+        "id":  "59faf7ca86f7740dbe19f6c2",
+        "name":  "Roler Submariner gold wrist watch",
+        "name_short":  "Roler",
+        "icon":  "roler"
+    },
+    {
+        "total_qty":  1,
+        "id":  "5aa2b923e5b5b000137b7589",
+        "name":  "Round frame sunglasses",
+        "name_short":  "RGlasses",
+        "icon":  "rglasses"
+    },
+    {
+        "total_qty":  1,
+        "id":  "5d1b31ce86f7742523398394",
+        "name":  "Round pliers",
+        "name_short":  "RPliers",
+        "icon":  "rpliers"
+    },
+    {
+        "total_qty":  2,
+        "id":  "576165642459773c7a400233",
+        "name":  "Saiga-12K ver.10 12ga semi-automatic shotgun",
+        "name_short":  "Saiga-12K",
+        "icon":  "saiga-12k"
+    },
+    {
+        "total_qty":  3,
+        "id":  "544fb45d4bdc2dee738b4568",
+        "name":  "Salewa first aid kit",
+        "name_short":  "Salewa",
+        "icon":  "salewa"
+    },
+    {
+        "total_qty":  1,
+        "id":  "617151c1d92c473c770214ab",
+        "name":  "Schmidt \u0026 Bender PM II 1-8x24 30mm riflescope",
+        "name_short":  "PM II 1-8x24",
+        "icon":  "pm_ii_1-8x24"
+    },
+    {
+        "total_qty":  23,
+        "id":  "57347c77245977448d35f6e2",
+        "name":  "Screw nuts",
+        "name_short":  "Nuts",
+        "icon":  "nuts"
+    },
+    {
+        "total_qty":  8,
+        "id":  "590c621186f774138d11ea29",
+        "name":  "Secure Flash drive",
+        "name_short":  "Flash drive",
+        "icon":  "flash_drive"
+    },
+    {
+        "total_qty":  2,
+        "id":  "61bf7c024770ee6f9c6b8b53",
+        "name":  "Secure magnetic tape cassette",
+        "name_short":  "SMT",
+        "icon":  "smt"
+    },
+    {
+        "total_qty":  5,
+        "id":  "62a0a0bb621468534a797ad5",
+        "name":  "Set of files \"Master\"",
+        "name_short":  "Master",
+        "icon":  "master"
+    },
+    {
+        "total_qty":  3,
+        "id":  "61bf83814088ec1a363d7097",
+        "name":  "Sewing kit",
+        "name_short":  "Krasavch.",
+        "icon":  "krasavch."
+    },
+    {
+        "total_qty":  1,
+        "id":  "5ab8f85d86f7745cd93a1cf5",
+        "name":  "Shemagh (Green)",
+        "name_short":  "Shemagh",
+        "icon":  "shemagh"
+    },
+    {
+        "total_qty":  19,
+        "id":  "590c35a486f774273531c822",
+        "name":  "Shustrilo sealing foam",
+        "name_short":  "Shus",
+        "icon":  "shus"
+    },
+    {
+        "total_qty":  2,
+        "id":  "56d59856d2720bd8418b456a",
+        "name":  "SIG P226R 9x19 pistol",
+        "name_short":  "P226R",
+        "icon":  "p226r"
+    },
+    {
+        "total_qty":  1,
+        "id":  "59bffbb386f77435b379b9c2",
+        "name":  "SilencerCo Hybrid 46 multi-caliber sound suppressor",
+        "name_short":  "Hybrid 46",
+        "icon":  "hybrid_46"
+    },
+    {
+        "total_qty":  25,
+        "id":  "5d1b39a386f774252339976f",
+        "name":  "Silicone tube",
+        "name_short":  "Tube",
+        "icon":  "tube"
+    },
+    {
+        "total_qty":  1,
+        "id":  "5ab8f20c86f7745cdb629fb2",
+        "name":  "Ski hat with holes for eyes",
+        "name_short":  "Shmaska",
+        "icon":  "shmaska"
+    },
+    {
+        "total_qty":  5,
+        "id":  "590c651286f7741e566b6461",
+        "name":  "Slim diary",
+        "name_short":  "SDiary",
+        "icon":  "sdiary"
+    },
+    {
+        "total_qty":  2,
+        "id":  "5e2af00086f7746d3f3c33f7",
+        "name":  "Smoked Chimney drain cleaner",
+        "name_short":  "DCleaner",
+        "icon":  "dcleaner"
+    },
+    {
+        "total_qty":  1,
+        "id":  "5c13cd2486f774072c757944",
+        "name":  "Soap",
+        "name_short":  "Soap",
+        "icon":  "soap"
+    },
+    {
+        "total_qty":  19,
+        "id":  "590a3c0a86f774385a33c450",
+        "name":  "Spark plug",
+        "name_short":  "SPlug",
+        "icon":  "splug"
+    },
+    {
+        "total_qty":  1,
+        "id":  "590c392f86f77444754deb29",
+        "name":  "SSD drive",
+        "name_short":  "SSD",
+        "icon":  "ssd"
+    },
+    {
+        "total_qty":  2,
+        "id":  "5abccb7dd8ce87001773e277",
+        "name":  "Stechkin APB 9x18PM silenced machine pistol",
+        "name_short":  "APB",
+        "icon":  "apb"
+    },
+    {
+        "total_qty":  1,
+        "id":  "5e2af37686f774755a234b65",
+        "name":  "SurvL Survivor Lighter",
+        "name_short":  "SurvL",
+        "icon":  "survl"
+    },
+    {
+        "total_qty":  11,
+        "id":  "55801eed4bdc2d89578b4588",
+        "name":  "SV-98 7.62x54R bolt-action sniper rifle",
+        "name_short":  "SV-98",
+        "icon":  "sv-98"
+    },
+    {
+        "total_qty":  2,
+        "id":  "5780d0532459777a5108b9a2",
+        "name":  "Tarcone Director\u0027s office key",
+        "name_short":  "Director\u0027s",
+        "icon":  "director\u0027s"
+    },
+    {
+        "total_qty":  11,
+        "id":  "590c639286f774151567fa95",
+        "name":  "Tech manual",
+        "name_short":  "Manual",
+        "icon":  "manual"
+    },
+    {
+        "total_qty":  1,
+        "id":  "5c13cef886f774072e618e82",
+        "name":  "Toilet paper",
+        "name_short":  "TP",
+        "icon":  "tp"
+    },
+    {
+        "total_qty":  11,
+        "id":  "590c2e1186f77425357b6124",
+        "name":  "Toolset",
+        "name_short":  "Toolset",
+        "icon":  "toolset"
+    },
+    {
+        "total_qty":  1,
+        "id":  "57347c93245977448d35f6e3",
+        "name":  "Toothpaste",
+        "name_short":  "Toothpaste",
+        "icon":  "toothpaste"
+    },
+    {
+        "total_qty":  1,
+        "id":  "62a0a124de7ac81993580542",
+        "name":  "Topographic survey maps",
+        "name_short":  "Maps",
+        "icon":  "maps"
+    },
+    {
+        "total_qty":  1,
+        "id":  "5a38e6bac4a2826c6e06d79b",
+        "name":  "TOZ-106 20ga bolt-action shotgun",
+        "name_short":  "TOZ-106",
+        "icon":  "toz-106"
+    },
+    {
+        "total_qty":  4,
+        "id":  "5c052e6986f7746b207bc3c9",
+        "name":  "Portable defibrillator",
+        "name_short":  "Defib",
+        "icon":  "defib"
+    },
+    {
+        "total_qty":  1,
+        "id":  "60391b0fb847c71012789415",
+        "name":  "TP-200 TNT brick",
+        "name_short":  "TP-200",
+        "icon":  "tp-200"
+    },
+    {
+        "total_qty":  1,
+        "id":  "5913611c86f77479e0084092",
+        "name":  "Trailer park portable cabin key",
+        "name_short":  "Cabin",
+        "icon":  "cabin"
+    },
+    {
+        "total_qty":  1,
+        "id":  "666b11055a706400b717cfa5",
+        "name":  "Tripwire installation kit",
+        "name_short":  "Tripwire",
+        "icon":  "tripwire"
+    },
+    {
+        "total_qty":  8,
+        "id":  "57347cd0245977445a2d6ff1",
+        "name":  "T-Shaped plug",
+        "name_short":  "T-Plug",
+        "icon":  "t-plug"
+    },
+    {
+        "total_qty":  2,
+        "id":  "571a12c42459771f627b58a0",
+        "name":  "TT-33 7.62x25 TT pistol",
+        "name_short":  "TT",
+        "icon":  "tt"
+    },
+    {
+        "total_qty":  8,
+        "id":  "5e2af22086f7746d3f3c33fa",
+        "name":  "Tube of Poxeram cold welding",
+        "name_short":  "Poxeram",
+        "icon":  "poxeram"
+    },
+    {
+        "total_qty":  1,
+        "id":  "593962ca86f774068014d9af",
+        "name":  "Unknown key",
+        "name_short":  "Unknown",
+        "icon":  "unknown"
+    },
+    {
+        "total_qty":  2,
+        "id":  "5aa7d03ae5b5b00016327db5",
+        "name":  "UNTAR helmet",
+        "name_short":  "UNTAR",
+        "icon":  "untar"
+    },
+    {
+        "total_qty":  2,
+        "id":  "59e7708286f7742cbd762753",
+        "name":  "Ushanka ear flap hat",
+        "name_short":  "Ushanka",
+        "icon":  "ushanka"
+    },
+    {
+        "total_qty":  1,
+        "id":  "66dae7cbeb28f0f96809f325",
+        "name":  "V40 Mini-Grenade",
+        "name_short":  "V40",
+        "icon":  "v40"
+    },
+    {
+        "total_qty":  2,
+        "id":  "5e32f56fcb6d5863cc5e5ee4",
+        "name":  "VOG-17 Khattabka improvised hand grenade",
+        "name_short":  "VOG-17",
+        "icon":  "vog-17"
+    },
+    {
+        "total_qty":  2,
+        "id":  "5e340dcdcb6d5863cc5e5efb",
+        "name":  "VOG-25 Khattabka improvised hand grenade",
+        "name_short":  "VOG-25",
+        "icon":  "vog-25"
+    },
+    {
+        "total_qty":  3,
+        "id":  "5c05300686f7746dce784e5d",
+        "name":  "VPX Flash Storage Module",
+        "name_short":  "VPX",
+        "icon":  "vpx"
+    },
+    {
+        "total_qty":  2,
+        "id":  "59e7643b86f7742cbf2c109a",
+        "name":  "WARTECH TV-109 + TV-106 chest rig (A-TACS FG)",
+        "name_short":  "TV-106 + TV-109",
+        "icon":  "tv-106_+_tv-109"
+    },
+    {
+        "total_qty":  4,
+        "id":  "590c5bbd86f774785762df04",
+        "name":  "WD-40 (100ml)",
+        "name_short":  "WD-40",
+        "icon":  "wd-40"
+    },
+    {
+        "total_qty":  8,
+        "id":  "5d1c819a86f774771b0acd6c",
+        "name":  "Weapon parts",
+        "name_short":  "WParts",
+        "icon":  "wparts"
+    },
+    {
+        "total_qty":  20,
+        "id":  "5b4391a586f7745321235ab2",
+        "name":  "WI-FI Camera",
+        "name_short":  "Camera",
+        "icon":  "camera"
+    },
+    {
+        "total_qty":  7,
+        "id":  "5d1b304286f774253763a528",
+        "name":  "Working LCD",
+        "name_short":  "LCD",
+        "icon":  "lcd"
+    },
+    {
+        "total_qty":  5,
+        "id":  "590c311186f77424d1667482",
+        "name":  "Wrench",
+        "name_short":  "Wrench",
+        "icon":  "wrench"
+    },
+    {
+        "total_qty":  14,
+        "id":  "590c346786f77423e50ed342",
+        "name":  "Xenomorph sealing foam",
+        "name_short":  "Xeno",
+        "icon":  "xeno"
+    },
+    {
+        "total_qty":  2,
+        "id":  "576a581d2459771e7b1bc4f1",
+        "name":  "Yarygin MP-443 Grach 9x19 pistol",
+        "name_short":  "MP-443 Grach",
+        "icon":  "mp-443_grach"
+    }
+]

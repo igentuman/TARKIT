@@ -39,7 +39,7 @@
                 <views:QuestTrackerView/>
             </TabItem>
             <TabItem Header="Items Tracker">
-                <views:ItemsTrackerView/>
+                <views:ItemsTrackerView DataContext="{Binding ItemsTrackerViewModel}"/>
             </TabItem>
             <TabItem Header="Settings">
                 <views:SettingsView/>
