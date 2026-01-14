@@ -5,6 +5,15 @@
 TARKIT is a lightweight C# desktop application designed to assist Escape from Tarkov players during raids.  
 It provides map overlays, quest tracking, and item tracking through transparent topmost windows and configurable hotkeys.
 
+
+Rus:
+
+TARKIT - приложение-помощник для игры Escape from Tarkov. Имеет карты, трекер квестов, трекер важных предметов. 
+Так же добавляет оверлей для закрепленных квестов и предметов (что бы не забыть во время игры)
+Можно открыть карту во время игры. Для всех оверлеев и карты есть настройка горячих клавиш.
+TARKIT не влезает в память, файлы или трафик игры. Это стороннее приложение.
+
+
 > ⚠️ TARKIT does **not** interact with game memory or network traffic. It works purely as an external helper tool.
 
 > Formerly know as "Tarkov Buddie", was renamed to TARKIT.
